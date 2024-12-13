@@ -13,10 +13,12 @@ Este proyecto es un sistema de mantenimiento de libros desarrollado con **Spring
 
 - **Java 17**: Lenguaje de programación principal.
 - **Spring Framework**: Base para el desarrollo del proyecto.
-- **Spring Data JPA**: Gestión de las entidades y repositorios.
-- **Spring MVC**: Controladores y manejo de solicitudes HTTP.
 - **Spring Boot**: Configuración automática del proyecto.
-- **MySQL**: Base de datos utilizada.
+- **Spring Data JPA**: Gestión de las entidades y repositorios.
+- **Spring Web**: Para manejar solicitudes HTTP y controladores.
+- **MySQL Driver**: Conexión con la base de datos MySQL.
+- **Thymeleaf**: Motor de plantillas para la generación de vistas.
+- **Lombok**: Reducción del código boilerplate (como getters y setters).
 - **Hibernate**: Implementación de JPA para la persistencia de datos.
 - **Maven**: Gestión de dependencias y construcción del proyecto.
 
